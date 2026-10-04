@@ -1,0 +1,10 @@
+{
+  "description": "Pro Motor Driving School offers a premium online platform for driving lessons, featuring personalized training, flexible scheduling, and a high pass rate.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
